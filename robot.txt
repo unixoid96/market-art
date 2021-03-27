@@ -1,2 +1,3 @@
 User-Agent: *
 Allow: /
+Sitemap: http://market-art.ru/sitemap.txt
