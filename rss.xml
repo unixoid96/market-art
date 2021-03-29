@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
+    <channel>
+        <item turbo="true">
+            <link>https://market-art.ru/index.html</link>
+            <turbo:content>
+                <![CDATA[
+ <header>
+                    <h1 class="title"> market-art </h1>
+	    <h2 class="subtitle"> Проекты теплосчетчиков! </h2>
+	    <h3 class="subtitle">Сделаем проект теплосчетчика за короткий срок! </h3>
+	    <h4 class="subtitle"> Проект установки теплосчётчика будет выполнен согласно всем нормам и правилам. </h4>
+	    <h5 class="subtitle">Вы получите готовый проект через 10 дней!</h5>
+                                <h6 class="subtitle">г.Артемовский</h6>
+<div class="links"><a class="button--green" href="https://vk.com/artskutin" target="_blank">Связаться</a><a class="button--grey" href="mailto:info@market-art.ru" target="_blank">E-mail</a><a class="button--grey" href="tel:+79002044638" target="_blank">Телефон</a><a class="button--green" href="http://market-art.tilda.ws/" target="_blank">Дополнительная информация</a></div></div></section></div></div></div>
+	  </header>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
