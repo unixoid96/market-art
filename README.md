@@ -1,5 +1,5 @@
 Энергоучет24.рф
-https://market-art.ru/
+
 # STATIC
 
 This directory contains your static files.
